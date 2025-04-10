@@ -1,0 +1,23 @@
+.height{
+    height: 300px !important;
+}
+.color-1{
+    background-color: #ff8585 !important;
+}
+.color-2{
+    background-color: burlywood !important;
+}
+.mt-6{
+    margin-top: 40px !important;
+}
+.box a{
+    border: 1px solid  rgb(214, 214, 214);
+    border-radius: 8px;
+
+}
+.padding{
+    padding: 8px;
+}
+.div ul li a:active{
+    color: #ffbd7f;
+}
