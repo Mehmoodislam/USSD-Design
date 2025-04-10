@@ -17,7 +17,12 @@
 }
 .padding{
     padding: 8px;
+    font-size: 19px;
 }
 .div ul li a:active{
     color: #ffbd7f;
+}
+.border{
+    border-bottom: 1px solid rgb(155, 152, 152);
+    padding-bottom: 8px;
 }

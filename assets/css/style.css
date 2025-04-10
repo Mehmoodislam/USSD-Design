@@ -59,6 +59,9 @@ a:hover {
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
+a:active{
+   color: #ff8510;
+}
 a:focus {
   outline: 0;
 }
